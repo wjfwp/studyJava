@@ -1,0 +1,16 @@
+package abstractClass;
+
+public class MainClass {
+	
+	public static void main(String[] args) {
+		
+		Tank tank = new Tank();
+		tank.changeMode();
+		tank.stop();
+		
+	}
+	
+	
+	
+
+}

@@ -1,0 +1,14 @@
+package abstractClass;
+
+public class Marine extends Unit {
+
+	@Override
+	void move(int x, int y) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	void stimPack() {
+		System.out.println("스팀팩을 사용합니다");
+	}
+}

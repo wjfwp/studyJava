@@ -1,0 +1,6 @@
+package abstractClass;
+
+public abstract class Tank extends Unit {
+
+	abstract void hello();
+}

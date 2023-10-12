@@ -1,0 +1,15 @@
+package abstractClass;
+
+public class Tank extends Unit {
+
+	@Override
+	void move(int x, int y) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	void changeMode() {
+		System.out.println("모드를 전환합니다.");
+	}
+
+}
