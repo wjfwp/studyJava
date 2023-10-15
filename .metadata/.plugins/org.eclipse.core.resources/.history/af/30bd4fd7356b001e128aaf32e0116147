@@ -1,0 +1,8 @@
+package modifier;
+
+public class TimeClass {
+
+	private int hour;
+	private int minute;
+	private int second;
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;modifier.AccessModifier&apos; to &apos;TimeClass&apos;&#x0D;&#x0A;- Original project: &apos;practice&apos;&#x0D;&#x0A;- Original element: &apos;modifier.AccessModifier&apos;&#x0D;&#x0A;- Renamed element: &apos;modifier.TimeClass&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AccessModifier&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;modifier{AccessModifier.java[AccessModifier" matchStrategy="1" name="TimeClass" qualified="false" references="true" similarDeclarations="false" stamp="1697357795799" textual="false" version="1.0"/>
+</session>

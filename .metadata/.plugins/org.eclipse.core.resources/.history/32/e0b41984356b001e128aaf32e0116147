@@ -1,0 +1,17 @@
+package modifier;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		
+		CardClass card = new CardClass();
+		System.out.println(card);
+		
+		CardClass card2 = new CardClass("dia", 2);
+		System.out.println(card2.KIND);
+		
+		
+		TimeClass time = new TimeClass();
+		time.hour = 25;
+	}
+}
