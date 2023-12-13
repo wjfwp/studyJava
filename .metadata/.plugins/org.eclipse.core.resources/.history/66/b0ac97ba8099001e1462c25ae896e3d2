@@ -1,0 +1,7 @@
+package day10.final_.basic;
+
+public class Children extends Parent{
+	
+	
+
+}
